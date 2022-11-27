@@ -1,0 +1,39 @@
+/* .special{
+    color: orange;
+    font-weight: bold;
+}
+
+
+.item{
+    color: red;
+    font-weight: bold;
+}
+
+li em{
+    color: rebeccapurple;
+}
+
+h2+h3{
+    font-size: 200%;
+}
+
+a:hover{
+    color: saddlebrown;
+    text-decoration: none;
+}
+
+em.must{
+    color: white;
+    background-color: red;
+    padding: Spx;
+} */
+
+/* p+em.must{
+    to apply only on em tag just after the p tag
+} */
+p.special{  
+    font-family: 'Courier New', Courier, monospace;
+    text-underline-offset: center;
+    text-decoration: dashed;
+    color: rebeccapurple;
+}

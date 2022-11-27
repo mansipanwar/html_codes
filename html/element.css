@@ -1,0 +1,8 @@
+/* selectors */
+p{
+    color: green;
+}
+/* it also changes the color of link */
+a{
+    color: green;
+}
